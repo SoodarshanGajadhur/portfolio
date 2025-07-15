@@ -10,7 +10,7 @@ import {
   nodejs,
   mongodb,
   docker,
-  endtoend,
+  imaginecities,
   uofa,
   invidi,
   learningguides,
@@ -223,20 +223,35 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Developer Intern",
+    title: "Software Developer",
     company_name: "INVIDI Technologies Corporation",
     icon: invidi,
     iconBg: "#383E56",
-    date: "May 2022 - Aug 2023",
+    date: "May 2022 - Jul 2025",
     points: [
-      "Demonstrated hands-on experience in DevOps/Agile operations, including proficient utilization of essential tools such as code review, unit test automation, build and release automation, and incident management.",
-      "Demonstrated leadership capabilities by mentoring and guiding two new interns within the team, and contributing to their successful integration.",
-      "Enhanced presentation skills through regular delivery of sprint reviews to key stakeholders, showcasing team progress and, delivered a company-wide presentation to celebrate the accomplishments of the team.",
-      "Exhibited problem-solving skills during on-call incidents, promptly resolving issues and documenting postmortem/RCA reports to prevent future recurrences.",
+      "Designed, developed, and deployed scalable, distributed microservices on AWS using ECS Fargate, SQS, Lambda, DynamoDB and other AWS services.",
+      "Built REST APIs and integrated microservices using Python and Kotlin, enabling secure and efficient communication between systems.",
+      "Led AWS cost-optimization efforts, reducing monthly expenses by 30% without impacting performance.",
+      "Built and maintained data pipelines to ingest data into Amazon S3, transform it, and load it into Amazon Aurora, enabling reliable data processing for downstream applications.",
+      "Resolved 10+ high-priority production incidents during on-call support, improving resolution time by 80% through root cause analysis and actionable documentation.",
+      "Collaborated with product owners to gather requirements and implement robust, testable features aligned with product needs.",
       "Utilized Terraform as an Infrastructure as Code solution for provisioning and managing our AWS infrastructure.",
-      "Leveraged Datadog for proactive system performance monitoring, including alerts and log monitoring for a better understanding and operation of the system.",
+      "Interned from May 2022 to April 2024, then transitioned to full-time role in October 2024.",
     ],
   },
+  {
+      title: "Full Stack Developer Intern",
+      company_name: "Imagine Cities",
+      icon: imaginecities,
+      iconBg: "#383E56",
+      date: "Jan 2022 - Apr 2025",
+      points: [
+        "Led a team of 5 to design, develop and deploy an Online Learning Web Application using Django, Python, PostgreSQL and Docker, leading to a 30% increase in user engagement.",
+        "Delivered high-quality web UIs using HTML, CSS, and JavaScript, focusing on accessibility and responsiveness.",
+        "Implemented automated unit and integration tests, reducing UI bugs and accelerating delivery.",
+        "Worked closely with clients to gather feedback and implement iterative improvements aligned with user needs.",
+      ],
+    },
   {
     title: "Teaching Assistant",
     company_name: "University of Alberta",
@@ -244,23 +259,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Sep 2021 - Dec 2021",
     points: [
-      "Worked as undergrad teaching assistant for CMPUT 229 - Computer Organization and Architecture I for Fall 2021 term.",
-      "Graded RISC-V coding lab assignments and homework assignments for 150+ students on time and contributed in grading midterm and final.",
+      "Graded RISC-V coding assignments for 150+ students providing timely, constructive feedback.",
       "Improved my public speaking skills by delivering 6 full lab presentations to classrooms of 30 students each.",
-      "Improved my people skills by providing feedback and guiding students with the lab assignments each week.",
-    ],
-  },
-  {
-    title: "Intern",
-    company_name: "End to End Solution Ltd",
-    icon: endtoend,
-    iconBg: "#383E56",
-    date: "May 2021 - Jul 2021",
-    points: [
-      "Regularly uploaded new product contents onto its e-commerce website through WordPress CMS.",
-      "Used web scrapping tools to scrape competitors website for product prices and implemented a Python script that compares those prices and automatically establishes our selling prices accordingly, resulting in 20% increase in online sales.",
-      "Tested and documented several new features like data analytics, product management and marketing automations technologies to enhance the e-commerce platform.",
-      "Answered incoming sales calls professionally, tactfully and per procedures, positively promoting our product to customers.",
     ],
   }
 ];

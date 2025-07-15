@@ -37,7 +37,7 @@ import github from "./tech/github.png";
 import bitbucket from "./tech/bitbucket.png";
 
 import invidi from "./company/invidi.png";
-import endtoend from "./company/end-to-end.png";
+import imaginecities from "./company/imagine-cities.png";
 import uofa from "./company/uofa.png";
 
 import learningguides from "./learning-guides.png";
@@ -82,7 +82,7 @@ export {
   github,
   bitbucket,
   invidi,
-  endtoend,
+  imaginecities,
   uofa,
   learningguides,
   habittracking,

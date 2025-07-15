@@ -43,35 +43,23 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify space-y-3'
       >
         <p>
-          My name is Soodarshan, and I am a fourth-year Bsc Honors Computer Science student at the University of Alberta. I have gained valuable experience 
-          in web development through various projects. In addition to web development, I also have a background in Android development. I am well-versed in 
-          several programming languages, including Python, C, C++, Kotlin, and Java. These languages have allowed me to tackle a wide range of projects and 
-          explore different aspects of software development.
+          Hey there! I’m Soodarshan — a curious and creative Software Developer who loves building cool stuff with code and AI. I graduated in June 2024 with a degree
+          in Computer Science from the University of Alberta, and since then, I’ve been working as a Software Developer, diving deeper into cloud technologies, automation,
+          and DevOps.
         </p>
 
         <p>
-          Additionally, I have spent approximately two years working as an intern in the industry in an Agile team, further enhancing my skills and knowledge.
-          Throughout my journey, I have had the opportunity to work with various AWS services and utilize Terraform for infrastructure as code. This experience 
-          has given me a solid foundation in cloud computing and a deep understanding of how to efficiently manage and deploy applications on a scalable platform.
+          I’m also an AWS Certified Solutions Architect – Associate, and I enjoy working with tools like Docker, Kubernetes, and Terraform to bring infrastructure to life.
+          Lately, I’ve been experimenting with new AI tools and platforms to push the boundaries of what I can build from smarter apps to more seamless developer workflows.
         </p>
 
         <p>
-          Furthermore, working in a team environment during my internship allowed me to hone my communication and collaboration skills. I learned to effectively 
-          work with colleagues, contribute to group discussions, and leverage the strengths of each team member to achieve project goals. My internship experience 
-          also helped me develop strong problem-solving and critical thinking abilities. I encountered various challenges during projects, and through careful 
-          analysis and innovative thinking, I was able to identify and implement effective solutions. This experience taught me the importance of being adaptable, 
-          resourceful, and persistent when facing complex problems.
+          When I’m not coding or exploring new tech, you’ll probably find me watching or playing soccer (⚽ is life), catching a match with friends, or working on a side project
+          that solves a problem I care about.
         </p>
 
         <p>
-          Apart from my industry experience, I have a keen interest in low-level programming. During my academic pursuits, I have taken courses in diverse areas, 
-          including algorithms, computer architecture, product management, and software quality. These courses have provided me with a well-rounded understanding 
-          of the software development lifecycle and equipped me with essential skills to deliver high-quality products.
-        </p>
-        
-        <p>
-          As a driven and dedicated individual, I am constantly seeking new challenges and opportunities to expand my knowledge and skillset. I am excited to 
-          leverage my experiences and contribute to innovative projects that push the boundaries of technology.
+          I’m always open to exciting collaborations, new opportunities, or just chatting about tech, soccer, or both. Let’s connect!
         </p>
       </motion.p>
 {/* 

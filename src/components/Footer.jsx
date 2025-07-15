@@ -24,7 +24,7 @@ const Footer = () => {
           <img src={logo} alt='logo' className='w-9 h-9 object-contain'/>
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>
             Soodarshan &nbsp;
-            <span className='sm:block hidden'>| CS Student</span>
+            <span className='sm:block hidden'>| Software Developer</span>
           </p>
         </Link>
       </div>
@@ -36,7 +36,7 @@ const Footer = () => {
     {/* <!--Copyright section--> */}
     <div
       className="p-4 text-center text-neutral-700 bg-black-100 dark:text-neutral-200">
-      © 2023 Copyright:
+      © 2025 Copyright:
       <a
         className="text-neutral-800 dark:text-neutral-400"
         href="/"
